@@ -1,7 +1,7 @@
 {
-  "name": "localforage-backbone",
-  "author": "Mozilla",
-  "description": "Backbone.js driver for localForage.",
+  "name": "kango-localforage-backbone",
+  "author": "Oliver Hoffmann",
+  "description": "Backbone.js driver for localForage and kango.",
   "keywords": [
     "indexeddb",
     "localstorage",
@@ -9,10 +9,10 @@
     "websql"
   ],
   "version": "0.4.0",
-  "homepage": "https://github.com/mozilla/localForage-backbone",
+  "homepage": "https://github.com/iamolivinius/kango-localForage-backbone",
   "repository": {
     "type": "git",
-    "url": "git://github.com/mozilla/localForage-backbone.git"
+    "url": "git://github.com/iamolivinius/kango-localForage-backbone.git"
   },
   "scripts": {
     "prepublish": "grunt build",
@@ -28,6 +28,6 @@
   "main": "dist/localforage.backbone.js",
   "licence": "Apache-2.0",
   "bugs": {
-    "url": "http://github.com/mozilla/localForage-backbone/issues"
+    "url": "http://github.com/iamolivinius/kango-localForage-backbone/issues"
   }
 }
