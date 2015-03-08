@@ -8,7 +8,7 @@
     "storage",
     "websql"
   ],
-  "version": "0.4.2",
+  "version": "0.4.3",
   "homepage": "https://github.com/iamolivinius/kango-localForage-backbone",
   "repository": {
     "type": "git",
