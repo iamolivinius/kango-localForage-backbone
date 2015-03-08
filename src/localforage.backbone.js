@@ -154,7 +154,7 @@
                     // collection's models.
                     done = _.after(data.length, done);
 
-                    var onModel = function(i, err, model) {
+                    var onModel = function(i, model) {
                         data[i] = model;
                         done();
                     };
